@@ -1,0 +1,4 @@
+input_data: "/data/gpfs/assoc/inbre/projects/jeff_shen/rnaseq_2023/snakemake_rnaseq_salmon_workflow/salmon_mergedtranscripts/fastp/"
+annot: "/data/gpfs/assoc/inbre/projects/jeff_shen/rnaseq_2023/snakemake_stringtie_workflow/stringtie/merged/merged.gtf"
+##comma seperated list of IOE event types
+ioetypes: "A3,A5,AF,AL,MX,RI,SE"
